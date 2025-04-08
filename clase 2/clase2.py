@@ -1,4 +1,4 @@
-#Solicitar al usuario que ingrese su Nombre, Apellido, Edad y Correo electronico
+# Solicitar al usuario que ingrese su Nombre, Apellido, Edad y Correo electronico
 
 nombre = input("Ingrese su nombre: ");
 apellido = input("Ingrese su apellido: ");
@@ -21,3 +21,5 @@ print("| Nombre  | Apellido | Edad | Correo              |");
 print("--------------------------");
 print("|", nombre, "|", apellido, "    |", edad, "|", correo, "|"); 
 print("---------------------------------------------------------");
+
+
